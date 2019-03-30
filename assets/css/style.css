@@ -1,0 +1,35 @@
+
+
+
+
+
+
+
+
+
+/* Take these out? Keep and figure it out if you have time */
+@media screen and (max-width: 980px){
+    #head-image {
+        margin-left: 175px;
+    }
+
+}
+
+
+@media screen and (max-width: 768px){
+
+    #head-image {
+        margin-left: 170px;
+    }
+
+}
+
+
+@media screen and (max-width: 640px){
+
+
+    #head-image {
+        margin-left: 150px;
+    }
+
+}
